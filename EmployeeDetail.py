@@ -6,9 +6,16 @@ def getdata():
         age = int(input("Enter your age:"))  
         salary = float(input("Enter your salary:  ")) 
         display(name,age,salary)
+        
 def display(name,age,salary):
     count=0
     while(count<1):
         count=count+1
-        print("name",name,"age",age,"salary",salary)
- getdata()
+        print("Hello ",name,"as your age is",age,"and your salary is",salary,"so we offer u aloan")
+        
+getdata()
+
+
+
+
+            
