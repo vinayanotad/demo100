@@ -1,7 +1,6 @@
 def getdata():
-    print("Enter the Employee details\n:")
-    for x in range(2):
-        name = input(" \nEnter your name:") 
+    for x in range(10):
+        name = input("\nEnter the Employee details \nEnter your name:") 
         age = int(input("Enter your age:"))  
         salary = float(input("Enter your salary:  ")) 
         display(name,age,salary)
