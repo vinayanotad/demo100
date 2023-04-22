@@ -1,0 +1,4 @@
+vinaya, 21, 1, chinnunotad2001@gmail.com, 7019885903
+amulya, 15, 2, ammunotad@gmail.com, 9845066651
+lalita, 12, 3, lalita@gmail.com, 9663202156
+ramesh, 22, 4, ram2@gmail.com, 9113202156
