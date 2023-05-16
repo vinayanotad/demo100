@@ -79,8 +79,18 @@
 x='True'
 print(x)
 
-x=None
-print(x)
+# x=None    #special literal
+# print(x)
+
+
+# def sum(a,b):
+
+#     result=sum(10,20)
+# print(result)
+
+
+
+
 
 
 

@@ -9,7 +9,7 @@
 #     for x in range(1):
 #         print("Hello ",name,"as your age is",age,"and your salary is",salary,"so we offer u aloan")
 
-# getdata()        
+# getdata()        1
 
 
 

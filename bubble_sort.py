@@ -4,7 +4,7 @@
 #     age = int(input("Enter your age:"))  
 #     salary = float(input("Enter your salary: ")) 
 
-
+#
 # def config():
 #     for (e==0,e<10,e++)
 #     getdata(name,age,salary)
