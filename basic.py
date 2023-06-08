@@ -76,8 +76,8 @@
 # print(hex(2572))
 # print(bin(12))
 
-x='True'
-print(x)
+# x='True'
+print(6)
 
 # x=None    #special literal
 # print(x)
