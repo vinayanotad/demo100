@@ -3,7 +3,7 @@
 # p,q=q,p
 # print (p,q) 
 
-# a,b,c = 5,10,7
+# a,b,c = 5,10,9
 # b,c,a = a+1, b+2, c-1
 # print(a,b,c) 
 
