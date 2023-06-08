@@ -3,7 +3,7 @@ def getdata():
     while(count<10):
         count=count+1
         name = input("\n Enter the details of Employee \nEnter your name:") 
-        age = int(input("Enter your age:"))  
+        age = int(input("Enter your age :"))  
         salary = float(input("Enter your salary:  ")) 
         display(name,age,salary)
         
